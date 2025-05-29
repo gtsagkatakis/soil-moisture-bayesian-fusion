@@ -16,7 +16,7 @@ We present a Bayesian machine learning framework that integrates retrieval and f
 
 ## Repository Structure
 
-- `BM_all_sites_testing_forecasting.py`: Main script implementing the pipeline
+- `soil-moisture-bayesian-fusion.py`: Main script implementing the pipeline
 - `data/`: Folder for storing or linking input `.npy` files (see below)
 - `results/`: Stores output plots and evaluation metrics
 - `paper/`: PDF of the published manuscript
