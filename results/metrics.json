@@ -1,0 +1,19 @@
+{
+    "jr2": {
+        "ECE_Retrieval_Val": 2.6224489795918364,
+        "ECE_Forecast_Val": 2.341836734693877,
+        "ECE_Combined_Val": 1.8877551020408156,
+        "MSE_Retrieval_Val": 0.0004125088224887436,
+        "RMSE_Retrieval_Val": 0.0203103132050873,
+        "MAE_Retrieval_Val": 0.015232443916424783,
+        "MSE_Forecast_Val": 0.000786616772687312,
+        "RMSE_Forecast_Val": 0.028046689157319657,
+        "MAE_Forecast_Val": 0.02003353327684714,
+        "MSE_Combined_Val": 0.0004552125233969269,
+        "RMSE_Combined_Val": 0.021335710051388655,
+        "MAE_Combined_Val": 0.015597256670351736,
+        "Unbiased_RMSE_Retrieval_Val": 0.019903150777978718,
+        "Unbiased_RMSE_Forecast_Val": 0.02779941937777073,
+        "Unbiased_RMSE_Combined_Val": 0.021211049181363902
+    }
+}
