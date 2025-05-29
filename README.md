@@ -30,9 +30,9 @@ scipy
 
 ## Input Data
 You will need the following .npy files per site: <br>
-*SMAP_L4_<site>.npy <br>
-*AUX_all_<site>.npy <br>
-*MM_all_<site>.npy <br>
+- SMAP_L4_<site>.npy <br>
+- AUX_all_<site>.npy <br>
+- MM_all_<site>.npy <br>
 Sites supported: jr1, jr2, jr3, kendall, lucky_hills, z1, z4 <br>
 These files are in the data/ directory.
 
