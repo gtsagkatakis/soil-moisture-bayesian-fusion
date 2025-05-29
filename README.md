@@ -28,6 +28,14 @@ scikit-learn
 ngboost
 scipy
 
+## Input Data
+You will need the following .npy files per site:
+*SMAP_L4_<site>.npy
+*AUX_all_<site>.npy
+*MM_all_<site>.npy
+Sites supported: jr1, jr2, jr3, kendall, lucky_hills, z1, z4
+These files are in the data/ directory.
+
 
 ## Citation
 @inproceedings{tsagkatakis2025fusion,
