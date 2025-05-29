@@ -3,8 +3,8 @@
 This repository contains the code and supplementary material for the paper:
 
 **Fusion of Forecasting and Retrieval for Uncertainty-Aware Soil Moisture Estimation**  
-*G. Tsagkatakis, A. Melebari∗, J. D. Campbell, A. Kannan, P. Shokri, E. Hodges, M. Moghaddam, P.Tsakalides
-*IGARSS 2025*
+*G. Tsagkatakis, A. Melebari∗, J. D. Campbell, A. Kannan, P. Shokri, E. Hodges, M. Moghaddam, P.Tsakalides*
+*IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2025* 
 
 ## Overview
 
