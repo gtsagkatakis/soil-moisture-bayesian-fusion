@@ -20,7 +20,19 @@ We present a Bayesian machine learning framework that integrates retrieval and f
 - `results/`: Stores output plots and evaluation metrics
 - `paper/`: PDF of the published manuscript
 
-## Setup
+## Required packages
+numpy
+matplotlib
+scikit-learn
+ngboost
+scipy
 
-```bash
-pip install -r requirements.txt
+
+## Citation
+@inproceedings{tsagkatakis2025fusion,
+  title={Fusion of Forecasting and Retrieval for Uncertainty-Aware Soil Moisture Estimation},
+  author={Tsagkatakis, Grigorios and Melebari, Amer and Campbell, James D. and others},
+  booktitle={IGARSS 2025 - IEEE International Geoscience and Remote Sensing Symposium},
+  year={2025}
+}
+
